@@ -20,27 +20,19 @@
 
 ---
 
-<!-- TWO COLUMN LAYOUT: ABOUT & STATS -->
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="55%" valign="top" style="border: none;">
-      <h2>👨‍💻 About Me</h2>
-      <blockquote>
-        <p>I am a passionate developer focusing on the intersection of modern web development and Artificial Intelligence.</p>
-      </blockquote>
-      <ul>
-        <li>🎓 Pursuing <b>B.E. in Information Technology</b> @ SFIT, Mumbai</li>
-        <li>💻 Ex-Web Dev Intern @ <b>Jio Platforms</b> & <b>Cipla</b></li>
-        <li>🏆 Tech Head @ <b>ITSA</b> (Organized events for 1000+ peers)</li>
-        <li>🌱 Currently exploring <b>Advanced RAG architectures</b> & <b>Distributed Systems</b></li>
-        <li>⚡ Fun fact: I love building tools that solve real-world problems!</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=SohammPawarr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <p>I am a software developer highly passionate about building scalable, user-centric web applications and exploring the cutting-edge of <b>Artificial Intelligence</b>. I thrive on bridging the gap between complex backend architectures and intuitive frontend experiences.</p>
+</div>
+
+<ul>
+  <li>🎓 <b>Education:</b> Pursuing B.E. in Information Technology @ SFIT, Mumbai</li>
+  <li>💻 <b>Experience:</b> Former Web Dev Intern @ <b>Jio Platforms</b> & <b>Cipla</b>, delivering enterprise-scale systems</li>
+  <li>🧠 <b>Currently Focusing On:</b> Next.js, FastAPI, and Advanced AI/RAG Integrations</li>
+  <li>🎯 <b>Goals:</b> To architect robust products that solve real-world problems at scale</li>
+  <li>⚡ <b>Fun fact:</b> I love participating in hackathons and quickly adapting to new tech stacks!</li>
+</ul>
+
 
 ---
 
