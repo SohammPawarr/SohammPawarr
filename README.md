@@ -95,22 +95,3 @@
   </a>
 </p>
 
----
-
-<!-- GITHUB STREAK & TOP LANGS -->
-<h2 align="center">📈 Activity & Stats</h2>
-
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohammPawarr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohammPawarr&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=22&fontAlignY=70" />
-</p>
